@@ -1,0 +1,30 @@
+{
+  "name": "server-manager",
+  "version": "1.0.0",
+  "description": "Server-manager",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jishanhoshen/servermanager.git"
+  },
+  "keywords": [
+    "servermanager",
+    "server-manager"
+  ],
+  "author": "Jishan Hoshen <jishanhoshenjibon@gmail.com>",
+  "license": "SEE LICENSE IN LICENSE",
+  "dependencies": {
+    "nodemon": "^3.0.3"
+  },
+  "engines": {
+    "node": ">=18.16.0",
+    "npm": ">=9.5.1"
+  },
+  "bugs": {
+    "url": "https://github.com/jishanhoshen/servermanager/issues"
+  },
+  "homepage": "https://github.com/jishanhoshen/servermanager#readme"
+}
